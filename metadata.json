@@ -1,0 +1,6 @@
+{
+  "name": "SRE-PH Life Admin",
+  "description": "Personal bureaucracy compliance tracker and government gateway SRE dashboard for Philippine documents, licenses, and renewals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
